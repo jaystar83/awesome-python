@@ -17,4 +17,7 @@ Your contributions are always welcome!
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
 
+* Bitte senden eine Email an: lieblings_lollege@firma.com
+
 Just a gentle reminder: **Try not to submit your own project. Instead, wait for someone finds it useful and submits it for you.**
+
